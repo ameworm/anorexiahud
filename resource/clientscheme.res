@@ -3038,7 +3038,7 @@ Scheme
 			{
 				"name"		"MADE INFINITY Personal Use Regular"
 				"tall"		"15"
-				"antialias" "0"
+				"antialias" "1"
 			}
 		}
 
@@ -3048,7 +3048,7 @@ Scheme
 			{
 				"name"		"MADE INFINITY Personal Use Black"
 				"tall"		"15"
-				"antialias" "0"
+				"antialias" "1"
 			}
 		}
 
@@ -3058,7 +3058,7 @@ Scheme
 			{
 				"name"		"MADE INFINITY Personal Use Regular"
 				"tall"		"30"
-				"antialias" "0"
+				"antialias" "1"
 			}
 		}
 
@@ -3068,7 +3068,27 @@ Scheme
 			{
 				"name"		"MADE INFINITY Personal Use Black"
 				"tall"		"30"
-				"antialias" "0"
+				"antialias" "1"
+			}
+		}
+
+		"MI48"
+		{
+			"1"
+			{
+				"name"		"MADE INFINITY Personal Use Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+
+		"MIBold48"
+		{
+			"1"
+			{
+				"name"		"MADE INFINITY Personal Use Black"
+				"tall"		"48"
+				"antialias" "1"
 			}
 		}
 	}
